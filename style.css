@@ -1,0 +1,92 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: #EC4C7A;
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 700px;
+    padding-bottom: 300px;
+}
+.top-banner{
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background-color: #EC4C7A;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.second-banner{
+    background-image: url(img/biography-bg.png);
+}
+.work{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.three-width{
+    width: 26%;
+    float: left;
+    margin-left:5%;
+    margin-top: 60px;
+}
+.latest-work{
+    background-image: url(img/latest-work-bg.png);
+}
+
+.writting{
+    color: black;
+}
+.footer-p{
+    text-align: center;
+}
+.footer-box{
+    height: 16%;
+    width: 28%;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 35%;
+    background-color: #EC4C7A;
+}
+.footer-massage{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.mail{
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.fotter{  
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.footer-cradit{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10%;
+}
