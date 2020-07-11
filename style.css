@@ -14,16 +14,19 @@ p{
     color: dimgray;
 }
 .half-width{
-    width: 35%;
+    width: 30%;
     float: left;
-    margin-left: 10%;
-    margin-top: 40px;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+.text-dec{
+    margin-top: 25%;
 }
 .half-width img{
     width: 100%;
 }
 section{
-    height: 700px;
+    height: 800px;
     padding-bottom: 300px;
 }
 .top-banner{
@@ -35,6 +38,13 @@ section{
     background-color: #EC4C7A;
     color: white;
     padding: 10px 20px;
+    border-radius: 15px;
+}
+.second-button{
+    text-decoration: none;
+    background-color: #EC4C7A;
+    color: white;
+    padding: 10px 30px;
     border-radius: 15px;
 }
 .second-banner{
@@ -53,8 +63,11 @@ section{
 }
 .latest-work{
     background-image: url(img/latest-work-bg.png);
+    background-size: cover;
 }
-
+#foter-h{
+    height: 500px;
+}
 .writting{
     color: black;
 }
@@ -62,11 +75,11 @@ section{
     text-align: center;
 }
 .footer-box{
-    height: 16%;
-    width: 28%;
-    border-radius: 10px;
-    margin-top: 3%;
+    height: 22%;
+    width: 30%;
     margin-left: 35%;
+    border-radius: 10px;
+    margin-top: 2.5%;
     background-color: #EC4C7A;
 }
 .footer-massage{
@@ -81,9 +94,9 @@ section{
     font-weight: bold;
     padding-bottom: 20px;
 }
-.fotter{  
+.fotter{ 
     background-image: url(img/footer-bg.png);
-    background-repeat: no-repeat;
+    background-size: cover;
 }
 .footer-cradit{
     text-align: center;
